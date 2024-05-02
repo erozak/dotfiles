@@ -1,0 +1,15 @@
+[user]
+	name = Jimmy / Erozak
+	email = pinex666@gmail.com
+
+[pull]
+	rebase = true
+
+[fetch]
+	prune = true
+
+[diff]
+	colorMoved = zebra
+
+[init]
+	defaultBranch = main
