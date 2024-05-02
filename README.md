@@ -1,6 +1,6 @@
 # erozak/dotfiles
 
-A repository of my dotfiles, managed by chezmoi
+A repository of my dotfiles, managed by [chezmoi](https://www.chezmoi.io/).
 
 ## Installation
 
