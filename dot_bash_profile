@@ -1,3 +1,4 @@
+export LANG="en_US.UTF-8"
 export HOMEBREW_CASK_OPTS="--appdir=/Users/jimmy/Applications"
 PATH="/opt/homebrew/bin:$PATH"
 PATH="/Users/jimmy/Applications/Visual Studio Code.app/Contents/Resources/app/bin:$PATH"
